@@ -1,0 +1,23 @@
+.skills {
+  background: #050505ab;
+  width: 40%;
+  float: right;
+  margin-top: 50px;
+  border-radius: 37px;
+  animation: fadeInRight 1s ease-in-out;
+  border: 1px solid #535050;
+  margin-right: 10px;
+}
+.skills-info {
+  margin: 10px;
+  cursor: pointer;
+}
+@keyframes fadeInRight {
+  from {
+    opacity: 0;
+    transform: translateX(300px);
+  }
+  to {
+    opacity: 1;
+  }
+}

@@ -1,0 +1,28 @@
+.about-me {
+  background: #050505ab;
+  width: 40%;
+  margin-top: 55px;
+  border-radius: 37px;
+  animation: fadeInLeft 1s ease-in-out;
+  border: 1px solid #535050;
+  margin-left: 10px;
+  /* box-shadow: 10px 14px 14px 4px rgb(227 214 227 / 31%); */
+}
+.info {
+  text-decoration: none;
+  text-align: left;
+}
+.info ul {
+  list-style: none;
+  line-height: 29px;
+}
+@keyframes fadeInLeft {
+  0% {
+    opacity: 0;
+    transform: translateX(-20px);
+  }
+  100% {
+    opacity: 1;
+    transform: translateX(0);
+  }
+}
