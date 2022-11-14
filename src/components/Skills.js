@@ -6,7 +6,7 @@ import CSSLogo from "../assets/img/css.svg";
 import BSLogo from "../assets/img/bootstrap.svg";
 import JSLogo from "../assets/img/javascript.svg";
 import VUELogo from "../assets/img/vuejs.png";
-import REACTLogo from '../assets/img/Reactjs.png";
+import REACTLogo from "../assets/img/Reactjs.png";
 export default function Skills() {
   return (
     <div className="skills">
