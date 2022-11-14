@@ -6,6 +6,7 @@ import CSSLogo from "../assets/img/css.svg";
 import BSLogo from "../assets/img/bootstrap.svg";
 import JSLogo from "../assets/img/javascript.svg";
 import VUELogo from "../assets/img/vuejs.png";
+import REACTLogo from '../assets/img/Reactjs.png";
 export default function Skills() {
   return (
     <div className="skills">
@@ -37,6 +38,10 @@ export default function Skills() {
 
         <a href="https://vuejs.org/" target="_blank" rel="noreferrer">
           <img src={VUELogo} alt="Vuejs Logo" />
+        </a>
+
+                <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
+          <img src={REACTLogo} alt="Reactjs Logo" />
         </a>
       </div>
     </div>
