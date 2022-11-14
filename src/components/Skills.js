@@ -41,7 +41,7 @@ export default function Skills() {
         </a>
 
                 <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-          <img src={REACTLogo} alt="Reactjs Logo" />
+          <img src={REACTLogo} alt="Reactjs Logo" width="50px" height="50px"/>
         </a>
       </div>
     </div>
