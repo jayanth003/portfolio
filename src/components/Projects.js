@@ -39,8 +39,7 @@ export default function Projects() {
                 <span>
                   Description:
                   <p>
-                    Arduino is an open-source electronics platform based on
-                    easy-to-use hardware and software.
+                    On the pricing page, you can choose from a variety of purchasing options.
                   </p>
                 </span>
                 <span>Languages Used: HTML, CSS, JS</span>
@@ -64,8 +63,7 @@ export default function Projects() {
                 <span>
                   Description:
                   <p>
-                    Arduino is an open-source electronics platform based on
-                    easy-to-use hardware and software.
+                    Single-page landing applications that can be used as an organization's description page.
                   </p>
                 </span>
                 <span>Languages Used: HTML, CSS, JS, Bootstrap</span>
@@ -89,8 +87,7 @@ export default function Projects() {
                 <span>
                   Description:
                   <p>
-                    Arduino is an open-source electronics platform based on
-                    easy-to-use hardware and software.
+                    Meme generator that uses text and images to create meme images.
                   </p>
                 </span>
                 <span>Languages Used: HTML, CSS, JS</span>
@@ -114,8 +111,7 @@ export default function Projects() {
                 <span>
                   Description:
                   <p>
-                    Arduino is an open-source electronics platform based on
-                    easy-to-use hardware and software.
+                    Memory game with various levels to play.
                   </p>
                 </span>
                 <span>Languages Used: HTML, CSS, JS</span>
