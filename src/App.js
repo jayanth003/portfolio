@@ -7,7 +7,7 @@ function App() {
   return (
     <div className="App">
       <div className="into-text">
-        <a href="/">Welcome To My Space Amigo</a>
+        <a href="/">Portfolio</a>
       </div>
       <AboutMe />
       <Skills />
