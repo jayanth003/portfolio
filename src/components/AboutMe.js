@@ -10,7 +10,7 @@ export default function AboutMe() {
           <li>Hi 👋, I'm JAYANTH.</li>
           <li>A new born 🪴 frontend developer from India 🇮🇳.</li>
           <li>🔭 I’m currently working on Business Payment Ecosystem.</li>
-          <li>🌱 I’m currently learning React.</li>
+          <li>🌱 I’m currently working with React + Typescript.</li>
         </ul>
       </div>
       <div>
